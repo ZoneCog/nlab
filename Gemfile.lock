@@ -24,7 +24,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    RedCloth (4.3.2)
+    RedCloth (4.3.3)
     abstract (1.0.0)
     activerecord-mysql2-adapter (0.0.3)
       mysql2
