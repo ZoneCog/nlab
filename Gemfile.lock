@@ -54,7 +54,7 @@ GEM
     unicorn (6.1.0)
       kgio (~> 2.6)
       raindrops (~> 0.7)
-    webrick (1.7.0)
+    webrick (1.8.2)
     zip-zip (0.3)
       rubyzip (>= 1.0.0)
 
