@@ -46,7 +46,7 @@ GEM
     rdoc (4.3.0)
     rdoc-data (4.1.0)
       rdoc (~> 4.0)
-    rexml (3.3.7)
+    rexml (3.3.9)
     rubyzip (2.3.2)
     syntax (1.1.0)
     test-unit (3.5.3)
